@@ -1,0 +1,2 @@
+2026-01-05 21:41:59 | test_monitor.txt | Score: 0 | Risk: Safe
+2026-01-05 21:41:59 | test_monitor.txt | Score: 0 | Risk: Safe

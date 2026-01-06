@@ -1,0 +1,6 @@
+2026-01-05 21:51:17 | trigger.txt | Score: 0 | Risk: Safe
+2026-01-05 21:51:40 | trigger3.txt | Score: 0 | Risk: Safe
+2026-01-05 21:59:23 | test_threat.pdf.exe | Score: 80 | Risk: Critical
+2026-01-06 19:55:38 | test.txt | Score: 10 | Risk: Safe (Manual Scan)
+2026-01-06 19:56:26 | test_upload.txt | Score: 0 | Risk: Safe (Manual Scan)
+2026-01-06 20:03:45 | test_upload.txt | Score: 0 | Risk: Safe (Manual Scan)
