@@ -1,8 +1,8 @@
-# 🛡️ MalGuard - AdvancedWeb Malware Analysis Platform
+# 🛡️ Masterware - Advanced Web Malware Analysis Platform
 
-**MalGuard** is a robust, microservices-based web application designed for real-time malware detection and analysis. It combines local heuristic engines with cloud-based intelligence (VirusTotal) to provide comprehensive protection against file-based threats.
+**Masterware** is a robust, microservices-based web application designed for real-time malware detection and analysis. It combines local heuristic engines with cloud-based intelligence (VirusTotal) to provide comprehensive protection against file-based threats.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=MalGuard+Dashboard+Preview)
+![Dashboard Preview](https://via.placeholder.com/800x400?text=Masterware+Dashboard+Preview)
 
 ## ✨ Key Features
 

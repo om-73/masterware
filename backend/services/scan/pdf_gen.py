@@ -9,7 +9,7 @@ def draw_header(c, width, height):
     c.rect(0, height - 80, width, 80, fill=1, stroke=0)
     c.setFillColor(colors.white)
     c.setFont("Helvetica-Bold", 24)
-    c.drawString(40, height - 50, "MalGuard Security Report")
+    c.drawString(40, height - 50, "Masterware Security Report")
     c.setFont("Helvetica", 12)
     c.drawString(40, height - 70, "Advanced Malware Analysis & Threat Detection")
 
