@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Configuration: Set this to your Render Backend URL after deployment
-    const PROD_API = 'https://your-render-backend-name.onrender.com';
+    const PROD_API = 'https://masterware.onrender.com';
 
     // Auto-switch based on hostname
     const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
