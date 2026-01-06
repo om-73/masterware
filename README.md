@@ -54,7 +54,7 @@ The project is built as a set of **Microservices**:
 4.  **Run Frontend**
     ```bash
     # In a new terminal
-    python -m http.server 8000 -d frontend
+    python -m http.server 8000
     ```
 
 5.  **Access App**
